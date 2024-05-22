@@ -4,14 +4,18 @@ Eu sou a Lays (Lay), uma Administradora de formação, movendo-se da administra�
 
 Sobre mim:
 
+
 🎓 Sou graduada em Administração de Empresas pela FMU
 
-🎓 Sou graduanda em DBA pela Impacta Tecnologia
+🎓 Atualmente sou graduanda em DBA pela Impacta Tecnologia
+
 
 💻 Ferramentas e Tecnologias
 - **Linguagens**: Python, SQL
 - **Bibliotecas**: Pandas, Numpy, Matplotlib e Statsmodels
 - **Visualização**: Power Bi e Looker Studio
+
+  
 
 ## 🤝 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lays-silva/)
