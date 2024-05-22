@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo(a)! 👋 
 
-Eu sou a Lays (Lay), uma Administradora de formação, movendo-se da administração para descobrir padrões ocultos e tendências nos dados, pronta para novos desafios e aprendizados! 🌐🔍
+Eu sou a Lays (Lay), apaixonada por descobrir insights padrões ocultos e tendência nos dados 📈💻. Aprendendo, crescendo e compartilhando conhecimento, pronta para novos desafios e aprendizados! 🌐🔍
 
 ## Sobre mim:
 
