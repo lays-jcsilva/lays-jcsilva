@@ -5,6 +5,7 @@ Eu sou a Lays (Lay), uma Administradora de formação, movendo-se da administra�
 Sobre mim:
 
 🎓 Sou graduada em Administração de Empresas pela FMU
+
 🎓 Sou graduanda em DBA pela Impacta Tecnologia
 
 💻 Ferramentas e Tecnologias
