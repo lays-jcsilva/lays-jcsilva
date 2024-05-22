@@ -12,6 +12,7 @@ Sobre mim:
 - **Bibliotecas**: Pandas, Numpy, Matplotlib e Statsmodels
 - **Visualização**: Power Bi e Looker Studio
 
+## 🤝 Contato
 
 
 
