@@ -8,9 +8,9 @@ Sobre mim:
 🎓 Sou graduanda em DBA pela Impacta Tecnologia
 
 💻 Habilidades
-- ** Ferramentas e Linguagens**: Python, SQL
-- ** Bibliotecas**: Pandas, Numpy, Matplotlib e Statsmodels
-- ** Visualização**: Power Bi e Looker Studio
+- **Ferramentas e Linguagens**: Python, SQL
+- **Bibliotecas**: Pandas, Numpy, Matplotlib e Statsmodels
+- **Visualização**: Power Bi e Looker Studio
 
 
 
