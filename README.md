@@ -2,6 +2,19 @@
 
 Eu sou a Lays (Lay), uma Administradora de formação, movendo-se da administração para descobrir padrões ocultos e tendências nos dados, pronta para novos desafios e aprendizados! 🌐🔍
 
+Sobre mim:
+
+🎓 Sou graduada em Administração de Empresas pela FMU
+🎓 Sou graduanda em DBA pela Impacta Tecnologia
+
+💻 Habilidades
+- ** Ferramentas e Linguagens**: Python, SQL
+- ** Bibliotecas**: Pandas, Numpy, Matplotlib e Statsmodels
+- ** Visualização**: Power Bi e Looker Studio
+
+
+
+
 <!--
 **lays-jcsilva/lays-jcsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
