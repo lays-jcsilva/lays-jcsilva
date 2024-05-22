@@ -2,7 +2,7 @@
 
 Eu sou a Lays (Lay), uma Administradora de formação, movendo-se da administração para descobrir padrões ocultos e tendências nos dados, pronta para novos desafios e aprendizados! 🌐🔍
 
-##Sobre mim:
+## Sobre mim:
 
 
 🎓 Sou graduada em Administração de Empresas pela FMU
