@@ -7,7 +7,7 @@ Eu sou a Lays (Lay), apaixonada por descobrir insights padrões ocultos e tendê
 
 🎓 Sou graduada em Administração de Empresas pela FMU
 
-🎓 Atualmente sou graduanda em DBA pela Impacta Tecnologia
+🎓 Atualmente sou graduanda em Tecnologia em Banco de Dados pela Impacta 
 
 
 💻 Ferramentas e Tecnologias
