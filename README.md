@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo(a)! 👋 
 
-Eu sou a Lays, eu sou a Lays Silva (Lay) uma Administradora de formação, movendo-se da administração para descobrir padrões ocultos e tendências nos dados, pronta para novos desafios e aprendizados! 🌐🔍
+Eu sou a Lays (Lay), uma Administradora de formação, movendo-se da administração para descobrir padrões ocultos e tendências nos dados, pronta para novos desafios e aprendizados! 🌐🔍
 
 <!--
 **lays-jcsilva/lays-jcsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
