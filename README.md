@@ -12,7 +12,6 @@ Eu sou a Lays (Lay), apaixonada por descobrir insights padrões ocultos e tendê
 
 💻 Ferramentas e Tecnologias
 - **Linguagens**: Python, SQL
-- **Bibliotecas**: Pandas, Numpy, Matplotlib e Statsmodels
 - **Visualização**: Power Bi e Looker Studio
 
   
